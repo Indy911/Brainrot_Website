@@ -1,0 +1,51 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  font-family: Times New Roman;
+  font-size: 300%;
+}
+h2 {
+  color: yellow;
+  font-family: Verdana;
+  font-size: 200%;
+}
+p {
+  border-color: red;
+  border-style: dotted;
+  font-family: Aerial;
+  font-size: 100%;
+  padding: 5px;
+  margin: 10px;
+}
+<style>
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: purple;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+table, th, td {
+   border: 1px solid black;
+   border-collapse: collapse;
+   border-style: solid;
+}
