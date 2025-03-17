@@ -11,6 +11,11 @@ h2 {
   font-family: Verdana;
   font-size: 200%;
 }
+h3 {
+  color: yellow
+  font-family: Verdana;
+  font-size: 125%;
+}
 p {
   border-color: red;
   border-style: dotted;
