@@ -54,12 +54,15 @@ table, th, td {
 }
 
 .paragraph {
-  background-color: Yellow;
-  text-color: Green;
+  background-color: yellow;
+  text-color: green;
   border: 20px
   border-style: solid;
 }
 
 #Header {
-  
+  text-color: dark blue;
+  font-family: Helvetica;
+  text-transform: capitalize;
+  font-size: 250%;
 }
