@@ -66,3 +66,11 @@ table, th, td {
   text-transform: capitalize;
   font-size: 250%;
 }
+
+article {
+  float: left;
+  padding: 20px;
+  width: 65%;
+  background-color: blue;
+  height: 300px;
+}
